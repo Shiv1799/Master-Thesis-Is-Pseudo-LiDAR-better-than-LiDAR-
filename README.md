@@ -1,4 +1,4 @@
-# Master-Thesis-Is-Pseudo-LiDAR-better-than-LiDAR ?
+# Master-Thesis Is Pseudo-LiDAR better than LiDAR ?
 
 The advancement of autonomous systems, particularly in autonomous driving, critically depends on robust and accurate 3D object detection. This thesis investigates the evolution of
 3D object detection methodologies, transitioning from classical geometry-driven techniques to
